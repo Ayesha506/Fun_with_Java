@@ -1,0 +1,24 @@
+Write a JAVA Programs to print the following Patterns:
+ 1.  A
+     AB
+     ABC
+     ABCD
+     ABCDE
+     
+ 2.  A
+     AA
+     AAA
+     AAAA
+     AAAAA
+     
+  3. A
+     BC
+     DEF
+     GHIJ
+     KLMNO
+     
+  4. A
+     BB
+     CCC
+     DDDD
+     EEEEE
